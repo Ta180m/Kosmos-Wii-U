@@ -1,0 +1,11 @@
+{
+    "author": "Crayon", 
+    "category": "tool", 
+    "description": "A UsendMii client", 
+    "details": "UsendMii client for Wii U.\n\n    Based on RemotePad from rw-r-r-0644\n  ", 
+    "license": "n/a", 
+    "title": "UsendMii Client", 
+    "url": "https://github.com/Crayon2000/UsendMii-Client/releases", 
+    "version": "0.2.0",
+    "changelog": "Send Wii Remote button states to UsendMii.\nUse a better default IP address.\nUse Wii U Toolchain (wut) from devkitPro."
+}

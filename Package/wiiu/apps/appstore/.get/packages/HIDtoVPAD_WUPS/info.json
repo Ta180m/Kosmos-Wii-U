@@ -1,0 +1,11 @@
+{
+  "title": "HIDtoVPAD - WUPS",
+  "author": "Maschell",
+  "category": "advanced",
+  "version": "HIDtoVPAD-v0.9k-nightly-6e348fd",
+  "url": "https://github.com/Maschell/hid_to_vpad/releases",
+  "license": "GPLv3",
+  "description": "Use a HID-Device as WiiU GamePad",
+  "details": "This version is HIDtoVPAD-WUPS-v0.1-nightly-9b4cce6 the version detailed in the additional info section is for update tracking purposes.\\n\\nThis APP is only for use with the WiiU plugin system Loader.\\n\\nThis is a little tool that let you use a hid device on the WiiU.\\nIt's based on the controller_patcher engine.\\n\\nfor a more detailed description and instructions please refer to the source URL or https://github.com/Maschell/hid_to_vpad .",
+  "changelog": ""
+}

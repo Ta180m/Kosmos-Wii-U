@@ -8,4 +8,5 @@
   <short_description>Haxchi Installer</short_description>
   <long_description>This will install Haxchi on your system.
   </long_description>
+  <category>tool</category>
 </app>

@@ -1,0 +1,10 @@
+{
+    "author": "Maschell", 
+    "category": "tool", 
+    "description": "USB HID to gamepad input", 
+    "details": "Emulate input using various USB HID devices.\n  ", 
+    "license": "n/a", 
+    "title": "HID to VPAD", 
+    "url": "https://gbatemp.net/threads/hid-to-vpad.424127/", 
+    "version": "v0.9k"
+}

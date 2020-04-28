@@ -1,0 +1,10 @@
+{
+    "author": "brienj", 
+    "category": "tool", 
+    "description": "U-Paint", 
+    "details": "XHP Creations proudly presents U-Paint\nSpecial Thanks to:\nDatalogger - Old school hacker\nvgmoose - Inspiring programmer that's always cool\npwsincd - For setting up a non-volatile working environment\nQuark The Awesome - Another inspiring programmer that never quits\nDimok - For setting up the Homebrew Launcher environment\nXHP Creations logo is a trademark of XHP Creations and should not be used in any unofficial build.", 
+    "license": "n/a", 
+    "title": "U-Paint", 
+    "url": "https://gbatemp.net/threads/u-paint-v2-5-for-homebrew-launcher.427404/", 
+    "version": "2.5"
+}

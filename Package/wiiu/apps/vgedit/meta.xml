@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>VGEdit</name>
+	<coder>vgmoose</coder>
+	<version>1.1</version>
+	<release_date>20180209200000</release_date>
+	<url>https://github.com/vgmoose/vgedit/releases</url>
+	<short_description>Text editor for the Wii U</short_description>
+	<long_description>vgedit is a Video Game text Editor for the Switch. It has basic file browsing functionality (SD card only) and allows text files to be edited directly using either the touch screen or a controller.
+		
+		Pressing Plus will save the file, Minus will close it. Hitting A brings up the keyboard and B will be either delete or backspace depending on which mode you are in (when keyboard is up (insert mode), it's backspace, in the overview mode it's delete
+	</long_description>
+	<category>tool</category>
+	
+</app>

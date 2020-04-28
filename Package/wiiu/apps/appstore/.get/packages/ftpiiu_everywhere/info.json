@@ -1,0 +1,10 @@
+{
+    "author": "Dimok", 
+    "category": "tool", 
+    "description": "FTPiiu everywhere", 
+    "details": "Now this tool is only for advanced users ONLY. This is an extension to the existing ftpiiu tool. It mounts all the paths listed in the FT2SD tool and offers them on the FTP. This includes SLC and MLC! You can also add files or remove files on the FTP which makes it quite dangerous if you do this on sysNAND. So therefore here is a fair warning:\n\nDO NOT TOUCH THIS TOOL IF YOU DON'T KNOW WHAT YOU DO. IF YOU MODIFY FILES ON sysNAND YOU MIGHT BE SCREWED!!!\n\nIf you brick your WiiU because you modified some files on sysNAND with this, then it is your own fault.\n\nIf you are aware of the risk and want to only explore the files on your WiiU here is the application.\n\n  ", 
+    "license": "n/a", 
+    "title": "FTPiiU_Everywhere", 
+    "url": "https://gbatemp.net/threads/libiosuhax-ppc-ipc-library-for-communication-to-dev-iosuhax.449296/", 
+    "version": "0.2"
+}

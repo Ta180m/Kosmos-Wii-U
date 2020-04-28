@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Sign C2W Patcher</name>
+  <coder>Fix94</coder>
+  
+<url>https://github.com/FIX94/c2w_patcher/releases</url>
+  <version>v1.2</version>
+  <release_date>20171009</release_date>
+  <short_description>Run Before WiiSXR or Wii64</short_description> 
+  <long_description>This will enter you into CFW & Overclock your vWii, improving performance in some emulators</long_description> 
+  <category>tool</category> 
+</app>

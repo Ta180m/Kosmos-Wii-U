@@ -1,0 +1,11 @@
+{
+  "title": "DiiBugger - WUPS",
+  "author": "Maschell",
+  "category": "advanced",
+  "version": "DiiBuggerWUPS-20180923121242-07cba0e",
+  "url": "https://github.com/Maschell/DiiBuggerWUPS/releases",
+  "license": "GPLv3",
+  "description": "Debugging Tool",
+  "details": "This APP requires the WiiU plugin system Loader to function\\n\\nAllows you to connect to your console and use simple debug operations. Checkout the CLI client by jam1garner for usage.\\n\\nOnce the plugin was loaded, start the diibugger-cli.py with python3, and type in connect [WIIU IP] to connect to the console. When the running applications changes you need to reconnect.",
+  "changelog": ""
+}

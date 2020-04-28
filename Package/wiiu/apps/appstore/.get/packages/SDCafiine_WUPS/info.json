@@ -1,0 +1,10 @@
+{
+  "title": "SDCafiine - WUPS",
+  "author": "Maschell",
+  "category": "advanced",
+  "version": "SDCafiine-WUPS-v1.4-nightly-67aa461",
+  "url": "https://github.com/Maschell/SDCafiine/releases",
+  "license": "GPLv3",
+  "description": "On-the-fly replacing of files",
+  "details": "The WiiU plugin system loader is required to run this app.\\n\\nThe main feature of this application is the on-the-fly replacing of files, which can be used used to loaded modified content from external media (SD/USB). It hooks into the file system functions of the WiiU. Whenever a file is accessed, SDCafiine checks if a (modified) version of it present on the SD/US device, and redirect the file operations if needed.\\n\\nFeatures\\n\\nOn the fly file replacing of game files.\\nSupport for replacing files from downloadable content\\nBuilt in libiosuhax support via mocha\\nSupports loading files from SD and USB (FAT32 and NTFS (highly experimental, can lead to random crashes))\\nSupport for multiple modpacks for as single game."
+}

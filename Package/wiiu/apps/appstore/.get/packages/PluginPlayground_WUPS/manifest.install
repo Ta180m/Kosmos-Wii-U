@@ -1,0 +1,5 @@
+U: wiiu/plugins/overlay_test.mod
+U: wiiu/plugins/vpad_input_logger.mod
+U: wiiu/plugins/nnu_patcher.mod
+U: wiiu/plugins/memory_info.mod
+U: wiiu/plugins/padcon.mod

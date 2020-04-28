@@ -1,0 +1,10 @@
+{
+    "author": "Maschell", 
+    "category": "advanced", 
+    "description": "WiiU Plugin System - WUPS", 
+    "details": "The Wii U Plugin allows you to load multiple plugins on your Wii U which enhance your experience. For example you can mod your games, use USB controller, swap your gamepad and TV screen and much more.\\n\\nFeatures\\nThe project is still in it's very early days, but it already has basic functions to play with.\\n\\nThe plugins will be loaded, even when you swap the running game.\\nSupport for up to 32 plugins at the same time.\\nEach plugin can override up to 100 different existing system functions.\\nMultiple plugins can override the same system functions.\\nPlugins can register for certain hook (for example whenever an application was started)\\nPlugins inherit the SD/USB access from the loader. All plugins have global SD and USB (FAT32 only) access.\\nPlugins can be configured at run-time. Press L, DPAD down, and minus on the gamepad at the same time to open the configuration menu.", 
+    "license": "GPLv3", 
+    "title": "WiiU Plugin System", 
+    "url": "https://github.com/Maschell/WiiUPluginLoader/releases", 
+    "version": "wiiupluginloader--nightly-597e98d"
+}

@@ -1,0 +1,10 @@
+{
+    "author": "FIX94", 
+    "category": "tool", 
+    "description": "Haxchi Installer", 
+    "details": "This will install Haxchi on your system.\n  ", 
+    "license": "n/a", 
+    "title": "Haxchi", 
+    "url": "https://github.com/FIX94/haxchi", 
+    "version": "2.5u2_v1.6"
+}

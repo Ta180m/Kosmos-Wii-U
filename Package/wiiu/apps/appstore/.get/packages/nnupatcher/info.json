@@ -1,0 +1,10 @@
+{
+    "author": "dibas, based on FIX94's patch", 
+    "category": "tool", 
+    "description": "Nintendo eShop Update Patcher", 
+    "details": "nnu-patcher allows you to start the Nintendo eShop on a lower firmware, if you have your firmware spoofed to the latest one available.\n  ", 
+    "license": "n/a", 
+    "title": "nnu-patcher", 
+    "url": "https://gbatemp.net/threads/nnu-patcher-for-the-homebrew-launcher.424732/", 
+    "version": "0.1"
+}

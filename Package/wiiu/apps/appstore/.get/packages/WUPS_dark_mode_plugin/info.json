@@ -1,0 +1,11 @@
+{
+  "title": "WUPS_dark_mode_plugin",
+  "author": "jacquesCedric",
+  "category": "advanced",
+  "version": "0.1",
+  "url": "https://github.com/jacquesCedric/WUPS_dark_mode_plugin/releases",
+  "license": "GPLv3",
+  "description": "Dark mode for the Wii U menu",
+  "details": "This is a simple plugin that makes the Wii U menu dark. It is an adaptation of DarkU that does not require external devices.\\n\\nThis is a plugin for the Wii U Plugin System (WUPS). To be able to use this plugin you have to WUPS installed.",
+  "changelog": ""
+}
