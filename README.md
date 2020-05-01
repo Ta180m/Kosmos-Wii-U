@@ -13,7 +13,7 @@
 </p>
 
 ## How to use
-Follow this guide: https://guide.teamatlasnx.com
+Follow this guide: https://switch.homebrew.guide/wiiu
 
 ## Featuring
 * [ftpiiu everywhere](https://github.com/FIX94/ftpiiu)
