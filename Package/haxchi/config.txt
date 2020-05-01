@@ -1,0 +1,13 @@
+default=sysmenu
+
+a=haxchi/homebrew_launcher.elf
+
+b=wiiu/apps/mocha/mocha.elf
+
+y=wiiu/apps/wup_installer_gx2/wup_installer_gx2.elf
+
+x=wiiu/apps/sdcafiine/sdcafiine.elf
+
+l=wiiu/apps/savemii_mod/savemii_mod.elf
+
+r=wiiu/apps/hidtovpad/hidtovpad.elf

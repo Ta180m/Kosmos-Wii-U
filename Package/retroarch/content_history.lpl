@@ -1,0 +1,150 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "items": [
+    {
+      "path": "sd:/roms/snes/Super Mario Kart (USA).sfc",
+      "label": "",
+      "core_path": "sd:/retroarch/cores/snes9x_libretro.rpx",
+      "core_name": "Nintendo - SNES / SFC (Snes9x - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "sd:/roms/snes/Legend of Zelda, The - A Link to the Past (USA).sfc",
+      "label": "",
+      "core_path": "sd:/retroarch/cores/snes9x_libretro.rpx",
+      "core_name": "Nintendo - SNES / SFC (Snes9x - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "sd:/roms/snes/The Legend of Zelda - A Link to the Past.sfc",
+      "label": "",
+      "core_path": "sd:/retroarch/cores/snes9x_libretro.rpx",
+      "core_name": "Nintendo - SNES / SFC (Snes9x - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "sd:/roms/nes/Super Mario Bros..nes",
+      "label": "",
+      "core_path": "sd:/retroarch/cores/nestopia_libretro.rpx",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "sd:/roms/snes/The Legend of Zelda - A Link to the Past.sfc",
+      "label": "",
+      "core_path": "sd:/retroarch/cores/snes9x2005_libretro.rpx",
+      "core_name": "Nintendo - SNES / SFC (Snes9x 2005)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "sd:/roms/snes/The Legend of Zelda - A Link to the Past.sfc",
+      "label": "",
+      "core_path": "sd:/retroarch/cores/snes9x2002_libretro.rpx",
+      "core_name": "Nintendo - SNES / SFC (Snes9x 2002)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "sd:/roms/snes/Super Mario All-Stars + Super Mario World.sfc",
+      "label": "",
+      "core_path": "sd:/retroarch/cores/snes9x_libretro.rpx",
+      "core_name": "Nintendo - SNES / SFC (Snes9x - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "sd:/roms/snes/Super Mario Kart.smc",
+      "label": "",
+      "core_path": "sd:/retroarch/cores/snes9x_libretro.rpx",
+      "core_name": "Nintendo - SNES / SFC (Snes9x - Current)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "sd:/roms/gbc/The Legend of Zelda - Oracle of Ages.gbc",
+      "label": "",
+      "core_path": "sd:/retroarch/cores/sameboy_libretro.rpx",
+      "core_name": "Nintendo - Game Boy / Color (SameBoy)",
+      "crc32": "",
+      "db_name": "",
+      "subsystem_ident": "gb_link_2p",
+      "subsystem_name": "2 Player Game Boy Link",
+      "subsystem_roms": [
+        "sd:/roms/gbc/The Legend of Zelda - Oracle of Ages.gbc",
+        "sd:/roms/gbc/The Legend of Zelda - Oracle of Ages.gbc"
+      ]
+    },
+    {
+      "path": "sd:/roms/gbc/The Legend of Zelda - Oracle of Seasons.gbc",
+      "label": "",
+      "core_path": "sd:/retroarch/cores/sameboy_libretro.rpx",
+      "core_name": "Nintendo - Game Boy / Color (SameBoy)",
+      "crc32": "",
+      "db_name": "",
+      "subsystem_ident": "gb_link_2p",
+      "subsystem_name": "2 Player Game Boy Link",
+      "subsystem_roms": [
+        "sd:/roms/gbc/The Legend of Zelda - Oracle of Seasons.gbc",
+        "sd:/roms/gbc/The Legend of Zelda - Oracle of Seasons.gbc"
+      ]
+    },
+    {
+      "path": "sd:/roms/gbc/The Legend of Zelda - Oracle of Ages.gbc",
+      "label": "",
+      "core_path": "sd:/retroarch/cores/sameboy_libretro.rpx",
+      "core_name": "Nintendo - Game Boy / Color (SameBoy)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "sd:/roms/gba/The Legend of Zelda - The Minish Cap.gba",
+      "label": "",
+      "core_path": "sd:/retroarch/cores/vba_next_libretro.rpx",
+      "core_name": "Nintendo - Game Boy Advance (VBA Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "sd:/roms/gba/Mario Kart - Super Circuit.gba",
+      "label": "",
+      "core_path": "sd:/retroarch/cores/vba_next_libretro.rpx",
+      "core_name": "Nintendo - Game Boy Advance (VBA Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "sd:/roms/gba/Super Mario Advance 4 - Super Mario Bros. 3.gba",
+      "label": "",
+      "core_path": "sd:/retroarch/cores/mgba_libretro.rpx",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "sd:/roms/nes/The Legend of Zelda.nes",
+      "label": "",
+      "core_path": "sd:/retroarch/cores/nestopia_libretro.rpx",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "sd:/games/Super Mario Bros. (World).nes",
+      "label": "",
+      "core_path": "sd:/retroarch/cores/fceumm_libretro.rpx",
+      "core_name": "Nintendo - NES / Famicom (FCEUmm)",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}
